@@ -104,8 +104,6 @@ margin-top: 5px;
 margin-bottom: 5px;
 />
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=samudrauduwaka&show_icons=true&locale=en" alt="samudrauduwaka" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=samudrauduwaka&" alt="samudrauduwaka" width="48%"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=samudrauduwaka&show_icons=true&locale=en" alt="samudrauduwaka" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=samudrauduwaka&" alt="samudrauduwaka" width="48%"/></p>
 
-<p align="right"></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samudrauduwaka&show_icons=true&locale=en&layout=compact" alt="samudrauduwaka" width="50%"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samudrauduwaka&show_icons=true&locale=en&layout=compact" alt="samudrauduwaka"/></p>
