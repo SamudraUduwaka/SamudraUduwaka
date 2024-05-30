@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samudra Uduwaka</h1>
-<h3 align="center">A passionate undergraduate at the department of Electronic and Telecommunication,</h3>
-<h3 align="center">University of Moratuwa</h3>
+<h3 align="center">A passionate undergraduate at the department of Electronic and Telecommunication, <br/> University of Moratuwa </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samudrauduwaka&label=Profile%20views&color=0e75b6&style=flat" alt="samudrauduwaka" /> </p>
 
@@ -8,6 +7,8 @@
 
 - 📫 Reach me at **samudrauduwaka@gmail.com**
 - 💬 Ask me anything on my preferences
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
