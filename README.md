@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samudrauduwaka&label=Profile%20views&color=0e75b6&style=flat" alt="samudrauduwaka" /> </p>
 
-<img src="http://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="200" align="right"/>
+<img src="http://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="250" align="right"/>
 
 - 📫 Reach me at **samudrauduwaka@gmail.com**
 - 💬 Ask me anything on my preferences
@@ -18,7 +18,6 @@
 <a href="https://www.hackerrank.com/samudra uduwaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samudra uduwaka" height="30" width="40" /></a>
 </p>
 
-<br/>
 <hr 
 width: 75%;
 height: 10px;
@@ -43,7 +42,7 @@ margin-top: 5px;
 margin-bottom: 5px;
 />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=samudrauduwaka&show_icons=true&locale=en" alt="samudrauduwaka" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=samudrauduwaka&show_icons=true&locale=en" alt="samudrauduwaka" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samudrauduwaka&" alt="samudrauduwaka" /></p>
 
