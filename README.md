@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Samudra Uduwaka</h1>
 <h3 align="center">A passionate undergraduate at the department of Electronic and Telecommunication, University of Moratuwa</h3>
 
-<img src="http://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="400" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samudrauduwaka&label=Profile%20views&color=0e75b6&style=flat" alt="samudrauduwaka" /> </p>
 
+<img src="http://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="400" align="right"/>
+
 - 📫 Reach me at **samudrauduwaka@gmail.com**
+- 💬 Ask me anything on my preferences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
