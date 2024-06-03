@@ -15,45 +15,6 @@ Welcome to my GitHub profile! I'm a student currently studying in the Department
 - 🌐 **Web Development:** I have developed web apps and websites using JavaScript, Java, PHP, and HTML.
 - 🛠️ **Design:** Proficient in SolidWorks for designing enclosures and mechanical components.
 
-## Projects
-
-Here are some of the projects I've worked on:
-
-- **IoT-Based Smart Home System:** Developed an IoT-based smart home system using Arduino and various sensors to monitor and control home appliances remotely.
-- **Web App for Real-Time Data Visualization:** Built a web application using React and JavaScript to visualize real-time data from IoT devices.
-- **Machine Learning Models:** Implemented various machine learning models for tasks such as image classification, sentiment analysis, and predictive analytics using TensorFlow and SciPy.
-
-## Get in Touch
-<img src="http://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="300" align="right"/>
-- LinkedIn: [Samudra Uduwaka](https://www.linkedin.com/in/samudra-uduwaka/)
-- Email: samudra@example.com
-
-Feel free to reach out to me for collaborations, project ideas, or just to connect!
-
-
-- 📫 Reach me at **samudrauduwaka@gmail.com**
-- 💬 Ask me anything on my preferences
-
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samudra-uduwaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samudra-uduwaka" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/samudra uduwaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="samudra uduwaka" height="30" width="40" /></a>
-<a href="https://www.youtube.com/samudra uduwaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samudra uduwaka" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/samudra uduwaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samudra uduwaka" height="30" width="40" /></a>
-</p>
-
-<hr 
-width: 75%;
-height: 10px;
-background-color: grey;
-margin-right: auto;
-margin-left: auto;
-margin-top: 5px;
-margin-bottom: 5px;
-/>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -112,6 +73,46 @@ margin-bottom: 5px;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+- **IoT-Based Smart Home System:** Developed an IoT-based smart home system using Arduino and various sensors to monitor and control home appliances remotely.
+- **Web App for Real-Time Data Visualization:** Built a web application using React and JavaScript to visualize real-time data from IoT devices.
+- **Machine Learning Models:** Implemented various machine learning models for tasks such as image classification, sentiment analysis, and predictive analytics using TensorFlow and SciPy.
+
+## Get in Touch
+<img src="http://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="300" align="right"/>
+- LinkedIn: [Samudra Uduwaka](https://www.linkedin.com/in/samudra-uduwaka/)
+- Email: samudra@example.com
+
+Feel free to reach out to me for collaborations, project ideas, or just to connect!
+
+
+- 📫 Reach me at **samudrauduwaka@gmail.com**
+- 💬 Ask me anything on my preferences
+
+<br/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/samudra-uduwaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samudra-uduwaka" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/samudra uduwaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="samudra uduwaka" height="30" width="40" /></a>
+<a href="https://www.youtube.com/samudra uduwaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samudra uduwaka" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/samudra uduwaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samudra uduwaka" height="30" width="40" /></a>
+</p>
+
+<hr 
+width: 75%;
+height: 10px;
+background-color: grey;
+margin-right: auto;
+margin-left: auto;
+margin-top: 5px;
+margin-bottom: 5px;
+/>
 
 <br/>
 <hr 
