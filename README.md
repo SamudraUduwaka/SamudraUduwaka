@@ -1,9 +1,35 @@
 <h1 align="center">Hi 👋, I'm Samudra Uduwaka</h1>
 <h3 align="center">A passionate undergraduate at the department of Electronic and Telecommunication, <br/> University of Moratuwa </h3>
 
-<img src="http://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="300" align="right"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samudrauduwaka&label=Profile%20views&color=0e75b6&style=flat" alt="samudrauduwaka" /> </p>
+
+Welcome to my GitHub profile! I'm a student currently studying in the Department of Electronic and Telecommunication Engineering at the University of Moratuwa. I have a keen interest in machine learning and IoT-based projects.
+
+## About Me
+
+- 🎓 **Education:** Department of Electronic and Telecommunication Engineering, University of Moratuwa.
+- 💻 **Skills:** JavaScript, Java, PHP, HTML, React, Python, C++, Arduino, MATLAB.
+- 🧠 **Machine Learning:** I have experience working on machine learning projects using TensorFlow and SciPy.
+- 🌐 **Web Development:** I have developed web apps and websites using JavaScript, Java, PHP, and HTML.
+- 🛠️ **Design:** Proficient in SolidWorks for designing enclosures and mechanical components.
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+- **IoT-Based Smart Home System:** Developed an IoT-based smart home system using Arduino and various sensors to monitor and control home appliances remotely.
+- **Web App for Real-Time Data Visualization:** Built a web application using React and JavaScript to visualize real-time data from IoT devices.
+- **Machine Learning Models:** Implemented various machine learning models for tasks such as image classification, sentiment analysis, and predictive analytics using TensorFlow and SciPy.
+
+## Get in Touch
+<img src="http://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="300" align="right"/>
+- LinkedIn: [Samudra Uduwaka](https://www.linkedin.com/in/samudra-uduwaka/)
+- Email: samudra@example.com
+
+Feel free to reach out to me for collaborations, project ideas, or just to connect!
+
 
 - 📫 Reach me at **samudrauduwaka@gmail.com**
 - 💬 Ask me anything on my preferences
