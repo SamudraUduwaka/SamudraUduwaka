@@ -111,8 +111,9 @@ margin-bottom: 5px;
 
 Here are some of the projects I've worked on:
 
-- **IoT-Based Smart Home System:** Developed an IoT-based smart home system using Arduino and various sensors to monitor and control home appliances remotely.
-- **Web App for Real-Time Data Visualization:** Built a web application using React and JavaScript to visualize real-time data from IoT devices.
+- **Smart Medi-box:** Developed a Smart Medicine Storage device with the integration of Node-red, C++, ESP32 module and some sensor modules.
+- **Php based Web App for a School Management System:** Built a web application using PHP, HTML, CSS and JavaScript to manage students, teachers and academic officers in a school.
+- **Php based Web App for an Online Tech store:** Built a web application using PHP, HTML, CSS and JavaScript for an Online store which can view, add to cart and can purchase through the site.
 - **Machine Learning Models:** Implemented various machine learning models for tasks such as image classification, sentiment analysis, and predictive analytics using TensorFlow and SciPy.
 
 <hr 
