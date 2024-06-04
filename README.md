@@ -111,10 +111,19 @@ margin-bottom: 5px;
 
 Here are some of the projects I've worked on:
 
-- **Smart Medi-box:** Developed a Smart Medicine Storage device with the integration of Node-red, C++, ESP32 module and some sensor modules.
-- **Php based Web App for a School Management System:** Built a web application using PHP, HTML, CSS and JavaScript to manage students, teachers and academic officers in a school.
-- **Php based Web App for an Online Tech store:** Built a web application using PHP, HTML, CSS and JavaScript for an Online store which can view, add to cart and can purchase through the site.
-- **Machine Learning Models:** Implemented various machine learning models for tasks such as image classification, sentiment analysis, and predictive analytics using TensorFlow and SciPy.
+<h4>Embedded and IoT</h4>
+
+- **Smart Medi-box:** Developed a Smart Medicine Storage device with the integration of Node-red, C++, ESP32 module and some sensor modules. [View Repository](https://github.com/SamudraUduwaka/Medibox-Samudra.git)
+- **Adaptive Traffic Control System:** Developed an Adaptive traffic light system which can update the time-to-wait at traffic-light junctions which has addressed the problem of Static time schedules for all the subways at the junction. Used IoT and ML models to implement. [View Repository](https://github.com/SamudraUduwaka/Adaptive-Traffic-Control-System.git)
+
+<h4>Web Development</h4>
+
+- **Php based Web App for a School Management System:** Built a web application using PHP, HTML, CSS and JavaScript to manage students, teachers and academic officers in a school. [View Repository](https://github.com/SamudraUduwaka/SuccessInternational-Web-App.git)
+- **Php based Web App for an Online Tech store:** Built a web application using PHP, HTML, CSS and JavaScript for an Online store which can view, add to cart and can purchase through the site. [View Repository](https://github.com/SamudraUduwaka/NewTech-php-Web-Application.git)
+
+<h4>Machine Learning</h4>
+
+- **Machine Learning Models:** Implemented various machine learning models for tasks such as image classification, sentiment analysis, and predictive analytics using TensorFlow and SciPy. [View Repository](https://github.com/SamudraUduwaka/Machine-Learning.git)
 
 <hr 
 width: 75%;
