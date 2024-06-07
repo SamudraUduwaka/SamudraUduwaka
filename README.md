@@ -7,7 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samudrauduwaka&label=Profile%20views&color=0e75b6&style=flat" alt="samudrauduwaka" /> </p>
 
-Welcome to my GitHub profile! I'm a student currently studying in the Department of Electronic and Telecommunication Engineering at the University of Moratuwa. I have a keen interest in machine learning and IoT-based projects.
+Welcome to my GitHub profile! I'm currently an Engineering Undergratuate at the Department of Electronic and Telecommunication Engineering at the University of Moratuwa and a Software Engineering Undergratuate at Java Institute for Advanced Technology, Sri Lanka. <br/>
+I have a keen interest in Software Engineering, Machine Learning and IoT-based projects.
 
 <hr 
 width: 75%;
@@ -21,11 +22,28 @@ margin-bottom: 5px;
 
 ## About Me
 
-- 🎓 **Education:** Department of Electronic and Telecommunication Engineering, University of Moratuwa.
-- 💻 **Skills:** JavaScript, Java, PHP, HTML, React, Python, C++, Arduino, MATLAB.
-- 🧠 **Machine Learning:** I have experience working on machine learning projects using TensorFlow and SciPy.
-- 🌐 **Web Development:** I have developed web apps and websites using JavaScript, Java, PHP, and HTML.
-- 🛠️ **Design:** Proficient in SolidWorks for designing enclosures and mechanical components.
+- 🎓 **Education:**
+  <ul>
+    <li>Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka</li>
+    <li>Software Engineering, Java Institute for Advanced Technology, Sri Lanka</li>
+  </ul>
+  
+- 💻 **Skills:**
+  <ul>
+    <li>JavaScript, Java, PHP, HTML, React, Python, C++, Arduino, MATLAB</li>
+  </ul>
+- 🧠 **Machine Learning:**
+  <ul>
+    <li>I have experience working on machine learning projects using TensorFlow and SciPy.</li>
+  </ul>
+- 🌐 **Web Development:**
+  <ul>
+    <li>I have developed web apps and websites using JavaScript, PHP, CSS and HTML.</li>
+  </ul>
+- 🛠️ **Design:**
+  <ul>
+    <li>SolidWorks for designing enclosures and mechanical components.</li>
+  </ul>
 
 <hr 
 width: 75%;
