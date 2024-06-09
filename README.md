@@ -30,7 +30,7 @@ margin-bottom: 5px;
   
 - 💻 **Skills:**
   <ul>
-    <li>JavaScript, Java, PHP, HTML, React, Python, C++, Arduino, MATLAB</li>
+    <li>JavaScript, Java, PHP, HTML, React, Python, C++, Arduino, MATLAB, SOLIDWORKS</li>
   </ul>
 - 🧠 **Machine Learning:**
   <ul>
