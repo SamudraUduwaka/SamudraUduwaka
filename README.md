@@ -31,8 +31,8 @@ margin-bottom: 5px;
 - 💻 **Skills:**
   <ul>
     <li>Languages: JavaScript, Java, PHP, HTML, React, Python, C++</li>
-    <li>Frameworks: Bootstrap, Tailwind, Sementic UI</li>
-    <li>Tools and Platforms: VSCode, Netbeans, Arduino, MATLAB, SOLIDWORKS</li>
+    <li>Tools and Platforms: VSCode, Netbeans, Arduino, Node-RED, Wokwi, MATLAB, SOLIDWORKS</li>
+    <li>Web dev Tools: VSCode, Git, Github</li>
   </ul>
 - 🧠 **Machine Learning:**
   <ul>
@@ -43,6 +43,7 @@ margin-bottom: 5px;
     <li>Front-end Design: Pure HTML, CSS, Javascript</li>
     <li>Back-end Development: PHP</li>
     <li>Frameworks: Bootstrap, Tailwind, Sementic UI</li>
+    <li>Database Management: MySQL, PHP Myadmin</li>
   </ul>
 - 🛠️ **Design:**
   <ul>
@@ -142,6 +143,8 @@ Here are some of the projects I've worked on:
 
 - **Php based Web App for a School Management System:** Built a web application using PHP, HTML, CSS and JavaScript to manage students, teachers and academic officers in a school. [View Repository](https://github.com/SamudraUduwaka/SuccessInternational-Web-App.git)
 - **Php based Web App for an Online Tech store:** Built a web application using PHP, HTML, CSS and JavaScript for an Online store which can view, add to cart and can purchase through the site. [View Repository](https://github.com/SamudraUduwaka/NewTech-php-Web-Application.git)
+- **Php based e-commerce web application:** Built a web application using PHP, HTML, CSS and JavaScript for an e-commerce web application, which can view, add to cart and can purchase through the site. [View Repository](https://github.com/SamudraUduwaka/NewTech-php-Web-Application.git)
+- **Php based Web App for a Restaurant:** Built a web application using PHP, HTML, CSS and JavaScript for a restaurant. [View Repository](https://github.com/SamudraUduwaka/NewTech-php-Web-Application.git)
 
 <h4>Machine Learning</h4>
 
