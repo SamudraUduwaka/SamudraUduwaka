@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samudrauduwaka&label=Profile%20views&color=0e75b6&style=flat" alt="samudrauduwaka" /> </p>
 
 Welcome to my GitHub profile! I'm currently an Engineering Undergratuate at the Department of Electronic and Telecommunication Engineering at the University of Moratuwa and a Software Engineering Undergratuate at Java Institute for Advanced Technology, Sri Lanka. <br/>
-I have a keen interest in Software Engineering, Machine Learning and IoT-based projects.
+I have a keen interest in Software Engineering, Machine Learning and Robotic projects.
 
 <hr 
 width: 75%;
@@ -40,7 +40,9 @@ margin-bottom: 5px;
   </ul>
 - 🌐 **Web Development:**
   <ul>
-    <li>I have developed web apps and websites using JavaScript, PHP, CSS and HTML.</li>
+    <li>Front-end Design: Pure HTML, CSS, Javascript</li>
+    <li>Back-end Development: PHP</li>
+    <li>Frameworks: Bootstrap, Tailwind, Sementic UI</li>
   </ul>
 - 🛠️ **Design:**
   <ul>
