@@ -30,7 +30,7 @@ margin-bottom: 5px;
   
 - 💻 **Skills:**
   <ul>
-    <li>Languages: JavaScript, Java, PHP, HTML, React, Python, C++</li>
+    <li>Languages: JavaScript, Java, PHP, HTML, React, Python, C++, Flutter, Dart</li>
     <li>Tools and Platforms: VSCode, Netbeans, Arduino, Node-RED, Wokwi, MATLAB, SOLIDWORKS</li>
     <li>Web dev Tools: VSCode, Git, Github</li>
   </ul>
@@ -44,6 +44,11 @@ margin-bottom: 5px;
     <li>Back-end Development: PHP</li>
     <li>Frameworks: Bootstrap, Tailwind, Sementic UI</li>
     <li>Database Management: MySQL, PHP Myadmin</li>
+  </ul>
+- 📱 **Mobile Application Development**
+  <ul>
+    <li>Design: Flutter, Dart, React JS</li>
+    <li>Platform: VS code, Android studio</li>
   </ul>
 - 🛠️ **Design:**
   <ul>
