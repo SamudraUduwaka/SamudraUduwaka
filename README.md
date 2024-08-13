@@ -151,6 +151,9 @@ Here are some of the projects I've worked on:
 - **Php based e-commerce web application:** Built a web application using PHP, HTML, CSS and JavaScript for an e-commerce web application, which can view, add to cart and can purchase through the site. [View Repository](https://github.com/SamudraUduwaka/eShop-Ecommerce-Web-Application.git)
 - **Php based Web App for a Restaurant:** Built a web application using PHP, HTML, CSS and JavaScript for a restaurant. [View Repository](https://github.com/SamudraUduwaka/Rajasi-Cousines.git)
 
+<h4>Mobile App Development</h4>
+- **To-do App:** An application for organizing to-do lists using Flutter
+
 <h4>Machine Learning</h4>
 
 - **Machine Learning Models:** Implemented various machine learning models for tasks such as image classification, sentiment analysis, and predictive analytics using TensorFlow and SciPy. [View Repository](https://github.com/SamudraUduwaka/Machine-Learning.git)
