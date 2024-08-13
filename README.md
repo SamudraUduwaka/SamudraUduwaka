@@ -152,6 +152,7 @@ Here are some of the projects I've worked on:
 - **Php based Web App for a Restaurant:** Built a web application using PHP, HTML, CSS and JavaScript for a restaurant. [View Repository](https://github.com/SamudraUduwaka/Rajasi-Cousines.git)
 
 <h4>Mobile App Development</h4>
+
 - **To-do App:** An application for organizing to-do lists using Flutter
 
 <h4>Machine Learning</h4>
