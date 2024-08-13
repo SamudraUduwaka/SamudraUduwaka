@@ -153,7 +153,7 @@ Here are some of the projects I've worked on:
 
 <h4>Mobile App Development</h4>
 
-- **To-do App:** An application for organizing to-do lists using Flutter
+- **To-do App:** An application for organizing to-do lists using Flutter. [View Repository](https://github.com/SamudraUduwaka/Todo-App.git)
 
 <h4>Machine Learning</h4>
 
