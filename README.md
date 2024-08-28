@@ -158,6 +158,7 @@ Here are some of the projects I've worked on:
 <h4>Machine Learning</h4>
 
 - **Machine Learning Models:** Implemented various machine learning models for tasks such as image classification, sentiment analysis, and predictive analytics using TensorFlow and SciPy. [View Repository](https://github.com/SamudraUduwaka/Machine-Learning.git)
+- **Automatic MCQ Grader:** Automatic MCQ Grader system implementation using classical algorithms [View Repository](https://github.com/SamudraUduwaka/Machine-Learning.git)
 
 <hr 
 width: 75%;
