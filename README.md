@@ -37,6 +37,7 @@ margin-bottom: 5px;
 - 🧠 **Machine Learning:**
   <ul>
     <li>I have experience working on machine learning projects using TensorFlow and SciPy.</li>
+    <li>Image Processing pratice with OpenCV library.</li>
   </ul>
 - 🌐 **Web Development:**
   <ul>
