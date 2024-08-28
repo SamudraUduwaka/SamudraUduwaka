@@ -139,10 +139,6 @@ margin-bottom: 5px;
 
 Here are some of the projects I've worked on:
 
-<h4>Embedded and IoT</h4>
-
-- **Smart Medi-box:** Developed a Smart Medicine Storage device with the integration of Node-red, C++, ESP32 module and some sensor modules. [View Repository](https://github.com/SamudraUduwaka/Medibox-Samudra.git)
-- **Adaptive Traffic Control System:** Developed an Adaptive traffic light system which can update the time-to-wait at traffic-light junctions which has addressed the problem of Static time schedules for all the subways at the junction. Used IoT and ML models to implement. [View Repository](https://github.com/SamudraUduwaka/Adaptive-Traffic-Control-System.git)
 
 <h4>Web Development</h4>
 
@@ -159,6 +155,12 @@ Here are some of the projects I've worked on:
 
 - **Machine Learning Models:** Implemented various machine learning models for tasks such as image classification, sentiment analysis, and predictive analytics using TensorFlow and SciPy. [View Repository](https://github.com/SamudraUduwaka/Machine-Learning.git)
 - **Automatic MCQ Grader:** Automatic MCQ Grader system implementation using classical algorithms [View Repository](https://github.com/SamudraUduwaka/Machine-Learning.git)
+
+<h4>Embedded and IoT</h4>
+
+- **Smart Medi-box:** Developed a Smart Medicine Storage device with the integration of Node-red, C++, ESP32 module and some sensor modules. [View Repository](https://github.com/SamudraUduwaka/Medibox-Samudra.git)
+- **Adaptive Traffic Control System:** Developed an Adaptive traffic light system which can update the time-to-wait at traffic-light junctions which has addressed the problem of Static time schedules for all the subways at the junction. Used IoT and ML models to implement. [View Repository](https://github.com/SamudraUduwaka/Adaptive-Traffic-Control-System.git)
+
 
 <hr 
 width: 75%;
