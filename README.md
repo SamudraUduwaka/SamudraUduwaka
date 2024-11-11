@@ -26,6 +26,7 @@ margin-bottom: 5px;
   <ul>
     <li>Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka</li>
     <li>Software Engineering, Java Institute for Advanced Technology, Sri Lanka</li>
+    <li>Minor in Mathematics, University of Moratuwa, Sri Lanka</li>
   </ul>
   
 - 💻 **Skills:**
