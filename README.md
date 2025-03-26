@@ -32,7 +32,8 @@ margin-bottom: 5px;
 - 💻 **Skills:**
   <ul>
     <li>Languages: JavaScript, Java, PHP, HTML, React, Python, C++, Flutter, Dart</li>
-    <li>Tools and Platforms: VSCode, Netbeans, Arduino, Node-RED, Wokwi, MATLAB, SOLIDWORKS</li>
+    <li>Templating Languages: Liquid, Jinja
+    <li>Tools and Platforms: VSCode, Netbeans, Arduino, Node-RED, Wokwi, MATLAB, SOLIDWORKS, IntelliJ Idea</li>
     <li>Web dev Tools: VSCode, Git, Github</li>
   </ul>
 - 🧠 **Machine Learning:**
