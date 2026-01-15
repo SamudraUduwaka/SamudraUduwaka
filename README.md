@@ -1,4 +1,4 @@
-<img src="github-header-image.png"/>
+<img src="github-header-banner.png"/>
 
 <h1 align="center">Hi 👋, I'm Samudra Uduwaka</h1>
 <h3 align="center">A passionate undergraduate at the Department of Electronic and Telecommunication, <br/> University of Moratuwa </h3>
